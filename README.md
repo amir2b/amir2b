@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi 👋, I'm Amir Bashiri
+
+### Data Engineer
+
+How to reach me:
+
+[![Amir Bashiri](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/30px-LinkedIn_icon.svg.png)](https://www.linkedin.com/in/amir-bashiri/)
 
 <!--
 **amir2b/amir2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
