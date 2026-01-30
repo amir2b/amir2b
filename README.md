@@ -2,7 +2,7 @@
 
 How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Amir%20Bashiri-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/amir-bashiri/)](https://linkedin.com/in/amir-bashiri/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/amir-bashiri/)](https://linkedin.com/in/amir-bashiri/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/amir2b/)](https://t.me/amir2b/)
 
 <!--
