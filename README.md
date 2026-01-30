@@ -1,10 +1,9 @@
-## Hi 👋, I'm Amir Bashiri
-
-### Data Engineer
+# Hi 👋, I'm Amir Bashiri
 
 How to reach me:
 
-[![Amir Bashiri](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/30px-LinkedIn_icon.svg.png)](https://www.linkedin.com/in/amir-bashiri/)
+[![Linkedin Badge](https://img.shields.io/badge/-Amir%20Bashiri-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/amir-bashiri/)](https://linkedin.com/in/amir-bashiri/) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/amir2b/)](https://t.me/amir2b/)
 
 <!--
 **amir2b/amir2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
